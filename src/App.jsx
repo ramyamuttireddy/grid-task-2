@@ -8,11 +8,11 @@ function App() {
 
   return (
     <>
-      <div className='grid grid-cols-8 w-[1140px] bg-[#F8F4F0;] m-auto shadow-xl mt-[20px]'>
+      <div className='grid grid-cols-8 w-[1140px] bg-[#F8F4F0;] m-auto my-[40px] shadow-xl  '>
 
         {/* Black Container */}
 
-        <div className='bg-black col-span-2   text-white '></div>
+        <div className='bg-black col-span-2   text-white rounded-t-lg '></div>
 
  
         {/* white Container  */}
