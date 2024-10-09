@@ -30,10 +30,10 @@ function App() {
 
 
           <div className='grid grid-cols-4 grid-rows-6 gap-4'>
-            <div className='bg-white col-span-2 row-span-2 p-20 rounded-[10px] shadow-xl '>1</div>
-            <div className='bg-white col-span-2 row-span-3 p-20 rounded-[10px] shadow-xl '>2</div>
-            <div className='bg-white col-span-2 row-span-4 p-20 rounded-[10px] shadow-xl '>3</div>
-            <div className='bg-white col-span-2 row-span-3 p-20 rounded-[10px] shadow-xl '>4</div>
+            <div className='bg-white col-span-2 row-span-2 p-10 rounded-[10px] shadow-xl '>1</div>
+            <div className='bg-white col-span-2 row-span-3 p-10 rounded-[10px] shadow-xl '>2</div>
+            <div className='bg-white col-span-2 row-span-4 p-10 rounded-[10px] shadow-xl '>3</div>
+            <div className='bg-white col-span-2 row-span-3 p-10 rounded-[10px] shadow-xl '>4</div>
           </div>
 
         </div>
