@@ -8,38 +8,16 @@ function App() {
 
   return (
     <>
-      <div className='grid grid-cols-6 gap-y bg-[#F8F4F0;]'>
+      <div className='grid grid-cols-8 w-[1140px] bg-[#F8F4F0;] m-auto shadow-xl mt-[20px]'>
 
-      
+        {/* Black Container */}
 
-        <div className='bg-black row-span-6  p-30 text-white '>
-          {/* <h2 className="text-white text-left font-['Alegreya_SC'] text-[30px]">Font Size And Font Family</h2>
+        <div className='bg-black col-span-2   text-white '></div>
 
-          <p className='text-[20px] subpixel-antialiased '>Font Smoothing</p>
-          <p className='text-[20px] antialiased '>Font Smoothing</p>
-
-        
-           
-          <p className='text-[20px]  italic'>Font Style</p>
-          
-         
-
-          <p className='text-[20px]  font-thin'>Font Weight</p>
-          <p className='text-[20px]  font-extralight'>Font Weight</p>
-          <p className='text-[20px]  font-light'>Font Weight</p>
-          <p className='text-[20px]  font-normal'>Font Weight</p>
-          <p className='text-[20px]  font-medium'>Font Weight</p>
-          <p className='text-[20px]  font-semibold'>Font Weight</p>
-          <p className='text-[20px]  font-bold'>Font Weight</p>
-          <p className='text-[20px]  font-extrabold'>Font Weight</p>
-          <p className='text-[20px]  font-black'>Font Weight</p>  */}
-
-        </div>
-
-
+ 
         {/* white Container  */}
 
-        <div className=' col-span-5 grid gap-10 p-10'>
+        <div className=' col-span-6 grid gap-10 p-10'>
 
           <div><h1 className='text-[32px] font-bold text-left'>Over View</h1></div>
 
